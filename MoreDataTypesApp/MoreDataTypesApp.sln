@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreDataTypesApp", "MoreDataTypesApp\MoreDataTypesApp.csproj", "{30D816BF-458E-4DAB-A9BA-9A3717328522}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30D816BF-458E-4DAB-A9BA-9A3717328522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D816BF-458E-4DAB-A9BA-9A3717328522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D816BF-458E-4DAB-A9BA-9A3717328522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D816BF-458E-4DAB-A9BA-9A3717328522}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E32044A-47CB-4A24-91FF-96EA7407F463}
+	EndGlobalSection
+EndGlobal
